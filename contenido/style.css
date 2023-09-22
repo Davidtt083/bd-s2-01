@@ -776,7 +776,26 @@ li {
   -webkit-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
 }
-
+.contelot3 {
+  width: 48%;
+  height: 218px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 87px;
+  background-color: rgba(255, 255, 255, 1);
+  color: #000000;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  /*display: flex;*/
+  align-items: center;
+  justify-content: center;
+  transition: all 1s;
+  /* text-align: justify; */
+  line-height: 21px;
+  box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
+}
 .conte-parr {
   width: 50%;
 }
